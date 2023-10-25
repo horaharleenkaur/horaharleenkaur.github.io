@@ -1,0 +1,12 @@
+title: Joy C. Garnett # your name (or website title) here
+logo: "/images/Garnett_Joyheadshot-2-circleedit1.png?raw=true" # your photo (or logo) here
+#https://www.gimp.org/tutorials/CircleImage/
+description: > # your text below (remove <br> elements if you don't need line breaks)   #Experienced at feature space generation, utilizing classification and regression models, using predictive data modeling to deliver insights and implement solutions to complex scientific problems.  
+  <br><br>
+  Data Scientist with experience executing with 5 years of experience in manipulating data, and optimizing workflow using Python. I have also implemented data-driven research to increase scientific R&D development timescales with data science techniques. 
+  <br><br>
+  
+  <a href="https://www.linkedin.com/in/joycarleen/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
