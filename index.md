@@ -1,3 +1,15 @@
+## Professional Experience
+
+### Business Intelligence Consultant - Beam Data, Toronto, Canada - Jan 2023 - Present
+### Business Intelligence Developer  - Shri Om Infotech, Pune, India - April 2020 - Jul 2022 
+
+## Certification
+
+### Data Analyst in Power BI - DataCamp
+### Data Analyst in SQL - DataCamp
+### Data Analyst in Python - DataCamp
+### Google Data Analytics Professional Certificate - Pursuing
+
 ## Portfolio
 
 ### ML Model Deployment - Faulty Steel Plates
