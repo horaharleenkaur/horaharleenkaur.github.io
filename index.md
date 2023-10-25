@@ -17,10 +17,10 @@
 
 - Restore datawarehouse to PostgresSQL: 26 dimension and fact tables, the biggest table contains more than 10
 million records.
-- Performed4-quadrantanalysisbasedonParetoprinciple:find20%productsandstoresthatcontributeto80%salesand profit; classify products and stores to 4 quadrants based on contribution: continue (high, high), improve (high low, low high), stop (low, low)
-- Performedorganicgrowthanalysis:separateorganicgrowthbyvolumeimpactandpricingimpact,helpproductand pricing team to plan/execute marketing campaigns including discounts to achieve profitable growth
+- Performed 4-quadrant analysis based on Pareto principle: find 20% products and stores that contribue to 80% sales and profit; classify products and stores to 4 quadrants based on contribution: continue (high, high), improve (high low, low high), stop (low, low)
+- Performed organic growth analysis: separate organic growth by volume impact and pricing impact, help product and pricing team to plan/execute marketing campaigns including discounts to achieve profitable growth
 
-PowerBI, Postgres, Python, Pandas, Numpy, SQL, Github, Jenkins, JIRA
+PowerBI, PostgreSQL, Python, Pandas, Numpy, SQL, Github, Jenkins, JIRA
 
 <img src="images/Project1_Thumbnail2.png?raw=true"/>
 
